@@ -280,6 +280,30 @@ button:hover {
     flex-direction: column;
     background: #047fa9;
   }
+  .default {
+    color: #ffffff;
+    display: flex;
+    flex-direction: column;
+    background: #047fa9;
+  }
+  .yellow {
+    color: #000000;
+    display: flex;
+    flex-direction: column;
+    background: yellow;
+  }
+  .white {
+    color: #000000;
+    display: flex;
+    flex-direction: column;
+    background: white;
+  }
+  .pink {
+    color: #000000;
+    display: flex;
+    flex-direction: column;
+    background: #c155a1;
+  }
   .side-one {
     padding: 0.1rem !important;
   }
